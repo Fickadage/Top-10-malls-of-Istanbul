@@ -1,0 +1,5 @@
+# data_analytics
+# Top-10-malls-of-Istanbul
+# sql
+SALES DATA OF THE 10 MOST POPULAR MALLS OF ISTANBUL FROM 01-01-2021 TO 31-12-2022.
+
